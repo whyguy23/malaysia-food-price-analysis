@@ -47,7 +47,7 @@ The data files are not included in this repository because of their size. To rep
 ## How to run
 
 ```powershell
-git clone <your-repo-url>
+git clone <https://github.com/whyguy23/malaysia-food-price-analysis>
 cd malaysia-food-price-analysis
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install -r requirements.txt
